@@ -1,0 +1,27 @@
+{
+  "server": {
+    "port": 8080,
+    "host": "0.0.0.0"
+  },
+  "database": {
+    "path": "tplink_devices.db"
+  },
+  "discovery": {
+    "enabled": true,
+    "interval_seconds": 30,
+    "timeout_seconds": 5
+  },
+  "devices": {
+    "auto_discover": true,
+    "known_ips": [
+      "192.168.1.100",
+      "192.168.1.101",
+      "192.168.0.100",
+      "192.168.0.101"
+    ]
+  },
+  "logging": {
+    "level": "info",
+    "verbose": false
+  }
+}

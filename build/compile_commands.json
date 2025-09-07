@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/robina/rli/IoT_for_fun/build",
+  "command": "/usr/bin/c++  -I/home/robina/rli/IoT_for_fun/include -I/home/robina/rli/IoT_for_fun/third_party/httplib -isystem /usr/include/jsoncpp -O2 -march=native -mtune=native -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/tplink_controller.dir/src/main.cpp.o -c /home/robina/rli/IoT_for_fun/src/main.cpp",
+  "file": "/home/robina/rli/IoT_for_fun/src/main.cpp",
+  "output": "CMakeFiles/tplink_controller.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/robina/rli/IoT_for_fun/build",
+  "command": "/usr/bin/c++  -I/home/robina/rli/IoT_for_fun/include -I/home/robina/rli/IoT_for_fun/third_party/httplib -isystem /usr/include/jsoncpp -O2 -march=native -mtune=native -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/tplink_controller.dir/src/device_manager.cpp.o -c /home/robina/rli/IoT_for_fun/src/device_manager.cpp",
+  "file": "/home/robina/rli/IoT_for_fun/src/device_manager.cpp",
+  "output": "CMakeFiles/tplink_controller.dir/src/device_manager.cpp.o"
+},
+{
+  "directory": "/home/robina/rli/IoT_for_fun/build",
+  "command": "/usr/bin/c++  -I/home/robina/rli/IoT_for_fun/include -I/home/robina/rli/IoT_for_fun/third_party/httplib -isystem /usr/include/jsoncpp -O2 -march=native -mtune=native -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/tplink_controller.dir/src/tplink_device.cpp.o -c /home/robina/rli/IoT_for_fun/src/tplink_device.cpp",
+  "file": "/home/robina/rli/IoT_for_fun/src/tplink_device.cpp",
+  "output": "CMakeFiles/tplink_controller.dir/src/tplink_device.cpp.o"
+},
+{
+  "directory": "/home/robina/rli/IoT_for_fun/build",
+  "command": "/usr/bin/c++  -I/home/robina/rli/IoT_for_fun/include -I/home/robina/rli/IoT_for_fun/third_party/httplib -isystem /usr/include/jsoncpp -O2 -march=native -mtune=native -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/tplink_controller.dir/src/database.cpp.o -c /home/robina/rli/IoT_for_fun/src/database.cpp",
+  "file": "/home/robina/rli/IoT_for_fun/src/database.cpp",
+  "output": "CMakeFiles/tplink_controller.dir/src/database.cpp.o"
+},
+{
+  "directory": "/home/robina/rli/IoT_for_fun/build",
+  "command": "/usr/bin/c++  -I/home/robina/rli/IoT_for_fun/include -I/home/robina/rli/IoT_for_fun/third_party/httplib -isystem /usr/include/jsoncpp -O2 -march=native -mtune=native -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles/tplink_controller.dir/src/api_server.cpp.o -c /home/robina/rli/IoT_for_fun/src/api_server.cpp",
+  "file": "/home/robina/rli/IoT_for_fun/src/api_server.cpp",
+  "output": "CMakeFiles/tplink_controller.dir/src/api_server.cpp.o"
+}
+]
